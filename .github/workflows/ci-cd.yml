@@ -2,10 +2,10 @@ name: CI/CD Pipeline
 
 on:
   push:
-分支:
+branch:
       - main
   pull_request:
-分支:
+branch:
       - main
 
 jobs:
